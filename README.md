@@ -1,4 +1,4 @@
-### Hi there, my name is Richard Neuwald. 👋
+### Ola, meu nome e Richard Neuwald. 👋
 
 
 
