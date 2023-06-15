@@ -4,7 +4,7 @@
 
 
 -  👨‍💻 Ex empresario da area de alimentacao em transacao de carreira para area da tecnologia. 
--  🌱 Atualmente cursando 1º Semestre em Analise e Desenvolvimento de Sistemas.
+-  🌱 Atualmente cursando 2º Semestre em Analise e Desenvolvimento de Sistemas.
 
     
   <div style="display: inline_block"><br\>
